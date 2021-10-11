@@ -15,6 +15,6 @@ Along with the framework:
 
 Follow my links:
  
-[![Linkedin Badge](https://img.shields.io/badge/-Andre%20Luiz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrefreitas01//)](https://www.linkedin.com/in/andrefreitas01/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Andre%20Luiz-6633cc?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/andrefreitas01//)](https://www.linkedin.com/in/andrefreitas01/) 
+[![Gmail Badge](https://img.shields.io/badge/-andreluizdefreitas0@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreluizdefreitas0@gmail.com)](mailto:andreluizdefreitas0@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-andreluizdefreitas0@gmail.com-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/freitas_andree/)](https://www.instagram.com/freitas_andree/)
